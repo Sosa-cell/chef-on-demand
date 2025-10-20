@@ -20,7 +20,7 @@ A modern, responsive restaurant website built with cutting-edge technologies. Fe
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sosa-cel/chef-on-demand.git
+   git clone https://github.com/Sosa-cell/chef-on-demand.git
    cd chef-on-demand
    ```
 
